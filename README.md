@@ -35,7 +35,7 @@
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/agostinhomarcia" target="_blank">Author</a>&#xa0; | &#xa0
-  <a href="#" target="_blank" rel="noopener noreferrer">Projeto</a>
+  <a href="https://kaleidoscopic-torte-54d4f3.netlify.app/#" target="_blank" rel="noopener noreferrer">Projeto</a>
 </p>
 
 <br>
